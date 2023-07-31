@@ -1,1 +1,4 @@
-# clase_git
+# Ejemplo para clase sobre Git y GitHub
+
+:)
+
